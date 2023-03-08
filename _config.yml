@@ -23,8 +23,8 @@ navbar-links:
   #About Me: "aboutme"
   Projects:
     - Energy Forecasting: "https://jesse-san.github.io/energy.github.io/"
-  Course Notebooks: "Will Update"
     - McCall Job Search: "https://jesse-san.github.io/McCall/"
+  Course Notebooks: "Will Update"
 
 ################
 # --- Logo --- #
