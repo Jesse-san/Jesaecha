@@ -124,7 +124,7 @@ navbar-var-length: True
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#4682B4"
-navbar-text-col: "#404040"
+navbar-text-col: "#FFFFFF"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#404040"
@@ -252,7 +252,7 @@ permalink: /:year-:month-:day-:title/
 paginate: 5
 
 kramdown:
-  input: GFM
+  input: Kramdown
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
