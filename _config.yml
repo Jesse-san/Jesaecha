@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Jesse-Projects
+#title: Jesse-Projects
 
 # Your name to show in the footer
 author: Jesse Saechao
@@ -23,7 +23,7 @@ navbar-links:
   #About Me: "aboutme"
   Projects:
     - Energy Forecasting: "https://jesse-san.github.io/energy.github.io/"
-  Course Work: "Will Update"
+  Course Notebooks: "Will Update"
 
 ################
 # --- Logo --- #
@@ -121,7 +121,7 @@ navbar-var-length: True
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#FFFFFF"
+navbar-col: "#4682B4"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
