@@ -20,7 +20,7 @@ author: Jesse Saechao
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  #About Me: "aboutme"
   Projects:
     - Energy Forecasting: "https://jesse-san.github.io/energy.github.io/"
   Course Work: "Will Update"
