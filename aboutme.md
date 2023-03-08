@@ -1,16 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hello! My name is Jesse Saechao and I am a Masters Economics student who loves cycling, cooking, story-rich video games, and working with data to make economic driven decisions. I am particularly interested in working with energy data and forecasting energy loads and demand. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### Background
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Laboratory medicine in the United States Navy sounds disjoint from economics and analytics, but I assure you that it's not! A feverent attention to detail is absoluteley necessary in the multitude of complex, analytic tasks that are performed in lab-medicine, along with an endless myriad of new biochemical processes and procedures to learn. Constant learning has easily translated to my passio for economics and has led me to California Polytechnic San Luis Obispo to earn my MS in Economics. 
