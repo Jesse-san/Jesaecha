@@ -48,10 +48,10 @@ round-avatar: false
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "JesseEfeoSaechao@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: https://www.facebook.com/JesseEfeoSaechao
-  github: daattali
+#  facebook: https://www.facebook.com/JesseEfeoSaechao
+#  github: daattali
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -279,9 +279,9 @@ exclude:
   - screenshot.png
   - docs/
 
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
+#plugins:
+#  - jekyll-paginate
+#  - jekyll-sitemap
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
