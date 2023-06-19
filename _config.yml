@@ -24,7 +24,7 @@ navbar-links:
   Projects:
     - Energy Forecasting: "https://jesse-san.github.io/energy.github.io/"
     - Undergraduate Thesis: "https://docs.google.com/document/d/e/2PACX-1vSJD7aKIbNGm36Wg_JqtXLszn-B_sU3fC9rGjesRvvlutqjb_ig_Uyw2kSa7wCw1EoCKB2Lg8htKAD6/pub"
-    - World Bank: "https://github.com/Jesse-san/agcausaltex/blob/main/Farmers_Ag_Causal_Group-2%20(1).pdf"
+    - World Bank: <a href="https://github.com/Jesse-san/agcausaltex/blob/main/Farmers_Ag_Causal_Group-2%20(1).pdf" target="_blank">PDF.</a>
   Dynamic Stochastic Modeling:
     - Markov Matrices: "https://jesse-san.github.io/Markov/"
     - McCall Job Search: "https://jesse-san.github.io/McCall/"
